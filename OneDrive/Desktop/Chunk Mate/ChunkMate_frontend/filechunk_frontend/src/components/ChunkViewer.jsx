@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const ViewerContainer = styled.div`
   padding: 1rem;
-  background-color: #f0f8ff; /* AliceBlue - light blue background */
+  background-color: #f0f8ff; 
   border-radius: 12px;
 `;
 
@@ -13,7 +13,7 @@ const ChunkBox = styled.div`
   margin-bottom: 1rem;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(32, 30, 30, 0.03);
-  color:rgb(24, 40, 106); /* steel blue text */
+  color:rgb(24, 40, 106); 
 `;
 
 const ChunkNumber = styled.div`
